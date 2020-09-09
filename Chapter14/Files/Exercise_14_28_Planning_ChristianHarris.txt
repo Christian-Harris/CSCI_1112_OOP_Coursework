@@ -1,0 +1,4 @@
+To make only the hour and minute hands visible we can put an if statement around
+the lines of code in the paintClock method. The statement will check to see if the
+visible fields are set to true for each the hour, minute, and second hands. If so,
+then the hand will be constructed. Otherwise they will not.
