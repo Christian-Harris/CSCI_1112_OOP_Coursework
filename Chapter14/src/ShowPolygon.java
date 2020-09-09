@@ -24,7 +24,6 @@ public class ShowPolygon extends Application {
 		Pane pane = new StackPane();
 		pane.getChildren().add(poly);
 		pane.getChildren().add(stop);
-		//pane.getChildren().add(poly, stop);
 		Scene scene = new Scene(pane, 400, 400);
 		primaryStage.setTitle("ShowPolygon"); // Set the stage title
 		primaryStage.setScene(scene); // Place the scene in the stage
