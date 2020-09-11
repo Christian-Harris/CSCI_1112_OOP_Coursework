@@ -134,7 +134,6 @@ public class Exercise_15_Listeners extends Application{
 						break;
 					default:
 				}
-				
 			}
 		}
 		
